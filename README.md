@@ -20,6 +20,6 @@ VueJS/ReactJS for components
 3. Can Download the results in a CSV
 4. Hosted this dashboard online:
    (use the command "serve -s build" after cloning the repository and the following message indicating the local URL where the
-   application is being served, typically somethin like "http://localhost:3000".Open this URL in  web browser to view  deployed application locally.
+   application is being served, typically somethin like "http://localhost:3000". Open this URL in  web browser to view  deployed application locally.
    
    
